@@ -14,6 +14,7 @@
   - **Комментарий:** компонентный подход
   - **Макет:** [Ссылка на макет](https://www.figma.com/file/MumYcKVk9RkKZEG6dR5E3A/FSD-frontend-education-program.-The-2nd-task "перейти на сайт")
   - **ТЗ:** [Ссылка на задания](https://rizzoma.com/topic/d5c429337bcaa70548fb5aeedee6d92b/0_b_8ndo_78h70/ "перейти на сайт")
+  - **Репозиторий** [Ссылка на репозиторий](https://github.com/CyberPunk10/FSD-Frontend-hotel)
   
 ### [Моё резюме и оно же - часть портфолио](https://cyberpunk10.github.io/resume_CyberPunk10/dist "перейти на сайт")
   - **Цель:** создать ещё одну работу в портфолио, применив новые инструменты
