@@ -16,6 +16,15 @@
   - **ТЗ:** [Ссылка на задания](https://rizzoma.com/topic/d5c429337bcaa70548fb5aeedee6d92b/0_b_8ndo_78h70/ "перейти на сайт")
   - **Репозиторий:** [Ссылка на репозиторий](https://github.com/CyberPunk10/FSD-Frontend-hotel)
   
+  
+### [Excel на vanila js по курсу от Владилена Минина (в разработке)](https://cyberpunk10.github.io/excel-js-vladilen-minin/dist "перейти на сайт")
+  - **Цель:** создать ещё одну более сложную и серьёзную работу в портфолио, применив новые инструменты
+  - **Технологии:** Webpack, NodeJS, Pug, Sass, ONLY VANILA JS, ESlint
+  - **Комментарий:** 
+  - **ТЗ:** [Ссылка на задания](https://www.jsexcel.ru/ "перейти на сайт")
+  - **Репозиторий:** [Ссылка на репозиторий](https://github.com/CyberPunk10/excel-js-vladilen-minin)
+  
+
 ### [Моё резюме и оно же - часть портфолио](https://cyberpunk10.github.io/resume_CyberPunk10/dist "перейти на сайт")
   - **Цель:** создать ещё одну работу в портфолио, применив новые инструменты
   - **Технологии:** SASS, vanilla JS, SVG-анимация, Mobile-first, Webpack, NodeJS
