@@ -2,7 +2,7 @@
 
 ## Обо мне:
 
-Константин, Санкт-Петербург. Разрабатываю сайты, люблю JavaScript, люблю создавать web-приложения, SPA.
+Константин, Санкт-Петербург. Разрабатываю сайты, люблю JavaScript, люблю создавать web-приложения/сервисы, SPA, SSR.
 
 [Страничка ВК](https://vk.com/cyberpunk10), [Страничка codepen](https://codepen.io/CyberPunk10).
 
@@ -17,7 +17,7 @@
   - **Репозиторий:** [Ссылка на репозиторий](https://github.com/CyberPunk10/FSD-Frontend-hotel)
   
   
-### [Excel на vanila js по курсу от Владилена Минина (в разработке)](https://cyberpunk10.github.io/excel-js-vladilen-minin/dist "перейти на сайт")
+### [Excel на чистом js по курсу от Владилена Минина](https://cyberpunk10.github.io/excel-js-vladilen-minin/dist "перейти на сайт")
   - **Цель:** создать ещё одну более сложную и серьёзную работу в портфолио, применив новые инструменты
   - **Технологии:** Webpack, NodeJS, Pug, Sass, ONLY VANILA JS, ESlint
   - **Комментарий:** 
@@ -41,10 +41,6 @@
   - **Цель:** увеличить практику верстки проекстов с нуля, довести проект до выкладки на хостинг.
   - **Технологии:** LESS, Bootstrap4, JS, jQuery
   - **Репозиторий:** [Ссылка на репозиторий](https://github.com/CyberPunk10/Glo-Academy)
-
-### [Пример сетки bootstrap - интерактивная страничка + PSD](https://cyberpunk10.github.io/Example-Grid-Bootsrap/. "перейти на сайт")
-  - **Цель:** сделать небольшую шпаргалку для визуального просмотра сетки Bootstrap, чтобы дизайнеру проще было понять устройство сетки
-  - **Репозиторий:** [Ссылка на репозиторий](https://github.com/CyberPunk10/Example-Grid-Bootsrap)
 
 
 
